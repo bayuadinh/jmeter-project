@@ -51,7 +51,7 @@
               </elementProp>
             </collectionProp>
           </elementProp>
-          <stringProp name="HTTPSampler.domain">specialcampaign.fixacne.xyz</stringProp>
+          <stringProp name="HTTPSampler.domain">NAMAWEBSITE</stringProp>
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
